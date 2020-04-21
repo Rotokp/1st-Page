@@ -1,0 +1,23 @@
+.heading{ 
+color: #850ff0;
+margin:50px 200px 0px 50px;
+}
+
+.quote
+{
+  margin: 20px 500px 5px 5px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 200%;
+}
+body
+{
+  background-color:#fff2e6;	
+}
+image{
+	height:400px;
+	width: 600px;
+	margin:1px 0px 1px 700px;
+}
+.buttons{
+    float: right;	
+}

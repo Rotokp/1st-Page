@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="some.css">
+    <title>
+		PHOTOBOOK
+	</title>
+</head>
+<body>
+	<div class="buttons">
+		<a href="">Login</a>
+		<a href="">Sign In</a>
+		<a href="">Sign Up</a>
+    </div>
+	 <div class="heading">
+	 	<h1>Rotokp</h1>
+	 </div>	
+	 <div class="quote">
+     <pre>
+     <div class="image">
+         <img src=C:\Users\KIIT\Desktop\pile-of-assorted-title-book-lot-selective-focus-photographt-1130980.jpg>
+      </div>   
+          Effortless
+     	  photo books,
+     	  made with love.
+     </pre>	 
+     </div> 
+</body>
+</html>
